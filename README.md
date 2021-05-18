@@ -51,6 +51,15 @@ Just being lazy in clever way.
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Nafidinara&show_icons=true&theme=algolia" alt="nafidinara" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=algolia" alt="nafidinara" />
+<div style="display: inline-flex;margin-top: 10px;justify-content: space-evenly">
+<div>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Nafidinara&show_icons=true&theme=algolia" alt="nafidinara" />
+</div>
+<div style="margin: 0 5px">
+</div>
+<div>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=algolia" alt="nafidinara" />
+</div>
+</div>
+
 

@@ -15,6 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=Nafidinara&color=blue&style=flat-square" align="left" />
 
 <br />
+<br />
 
 Hi, I'm [Alfara Nafi Dinara](https://www.linkedin.com/in/alfarand/), Junior Web Programmer with 2 years experience. Learn very much
 of web programming language and curious about new stack of

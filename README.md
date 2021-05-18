@@ -16,13 +16,13 @@
 
 <br />
 
-Hi, I'm [Alfara Nafi Dinara](https://www.linkedin.com/in/alfarand/), unior Web Programmer with 2 years experience. Learn very much
+Hi, I'm [Alfara Nafi Dinara](https://www.linkedin.com/in/alfarand/), Junior Web Programmer with 2 years experience. Learn very much
 of web programming language and curious about new stack of
 programming. Experience in freelance and remote work.
 Responsible, wondering, and hard working. Client satisfaction is
 number one.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="300" />
 
 
 - 💬 Ask me about anything,Let we discuss together!
@@ -51,8 +51,6 @@ Just being lazy in clever way.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nafidinara&show_icons=true&theme=gotham" alt="nafidinara" />
-
-
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Nafidinara&show_icons=true&theme=algolia" alt="nafidinara" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=algolia" alt="nafidinara" />
 

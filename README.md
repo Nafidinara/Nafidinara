@@ -9,7 +9,7 @@
   <img align="left" alt="Alfara's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/algaroow">
-  <img align="left" alt="Alfara's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Alfara's Facebook" width="22px" src="https://i.imgur.com/P3YfQoD.png" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Nafidinara&color=blue&style=flat-square" align="left" />

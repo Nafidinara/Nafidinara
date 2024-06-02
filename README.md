@@ -1,12 +1,12 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/alfaraaa.nd/">
-  <img align="left" alt="Alfara's Instagram" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/src/svg/instagram.svg" />
+  <img align="left" alt="Alfara's Instagram" width="22px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alfarand/">
-  <img align="left" alt="Alfara's LinkedIn" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/src/svg/linkedin.svg" />
+  <img align="left" alt="Alfara's LinkedIn" width="22px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/algaroow">
-  <img align="left" alt="Alfara's Facebook" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/src/svg/facebook.svg" />
+  <img align="left" alt="Alfara's Facebook" width="22px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/facebook.svg" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Nafidinara&color=blue&style=flat-square" align="left" />
